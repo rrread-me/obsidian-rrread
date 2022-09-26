@@ -1,0 +1,10 @@
+{
+  "id": "rrread",
+  "name": "rrread",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Sync you rrread Highlights to your Obsidian vault.",
+  "author": "rrread",
+  "authorUrl": "https://rrread.me",
+  "isDesktopOnly": false
+}
